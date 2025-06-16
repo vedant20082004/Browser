@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+.env
+*.exe
+*.dll
+*.zip
+*.tar.gz
